@@ -19,10 +19,10 @@ Easily generate random, secure passwords with customizable length and character 
 ```bash
 pip install pyinstaller
 
-2️⃣ Run the Script Directly
+2️⃣ **Run the Script Directly**
 python main.py
 
-3️⃣ Package as macOS App
+3️⃣ **Package as macOS App**
 pyinstaller --onefile --windowed --name "MacPasswordGen" main.py
 
 The app will be available in the dist folder.
